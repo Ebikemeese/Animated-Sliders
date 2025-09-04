@@ -40,4 +40,4 @@ Each folder is self-contained and includes all necessary files to run independen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/slider-showcase.git
+   git clone  https://github.com/Ebikemeese/Animated-Sliders.git
